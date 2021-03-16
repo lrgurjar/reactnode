@@ -96,9 +96,9 @@ class AddItem extends Component  {
             </Button> 
           </InputGroup.Append> 
         </InputGroup> 
+        </Col> 
   
-     </Col> 
-   </Row> 
+   </Row>  
    <Row> 
     <Col md={{ span: 5, offset: 4 }}> 
         <ListGroup > 
